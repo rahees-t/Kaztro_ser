@@ -1,7 +1,8 @@
 {
-  "name": "JulieMwol", 
+  "name": "🤹🏻‍♀️🎩𝄠࿑᥅ꪖꫝꫀꫀᦓ❥࿑𝄠🎩🤹🏻‍♂️", 
   "version": "7.3.6",
-  "description": "This is a Modified Version of WhatsAsena, Made By phaticusthiccy with Baileys.",
+  "description": "
+𝐖𝐡𝐞𝐧 𝐭𝐡𝐞 𝐬𝐧𝐨𝐰𝐬 𝐟𝐚𝐥𝐥 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐰𝐡𝐢𝐭𝐞 𝐰𝐢𝐧𝐝𝐬 𝐛𝐥𝐨𝐰, 𝐭𝐡𝐞 𝐥𝐨𝐧𝐞 𝐰𝐨𝐥𝐟 𝐝𝐢𝐞𝐬 𝐛𝐮𝐭 𝐭𝐡𝐞 𝐩𝐚𝐜𝐤 𝐬𝐮𝐫𝐯𝐢𝐯𝐞𝐬.”.",
   "main": "./Julie-Mwol/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -18,7 +19,7 @@
     "WhatsAsena"
   ],
   "author": "farhan-dqz",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "developer": "@尺丹卄モモＳ",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/farhan-dqz/Julie-Mwol/issues"
